@@ -1,3 +1,0 @@
-Github URL: https://github.com/Franko88Bit/Frank-Alvarez-Module-1
-
-Application deployment link on local machine: http://127.0.0.1:5500/Develop/index.html
